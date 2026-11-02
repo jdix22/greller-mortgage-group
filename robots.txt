@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jdix22.github.io/greller-mortgage-group/sitemap.xml
